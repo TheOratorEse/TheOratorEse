@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheOratorEse
-- 👀 I’m interested in back end development
+- 👀 I’m a backend developer working with PHP
 - 🌱 I’m currently learning Golang 
 - 💞️ I’m looking to collaborate on building Web and software solutions
 
