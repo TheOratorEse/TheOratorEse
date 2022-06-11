@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @TheOratorEse
 - 👀 I’m a backend developer working with HTML/CSS, VUES, JAVASCRIPT PHP/LARAVEL, CMS, SQL/POSTGRE
-- 🌱 I’m currently exploring Golang, 
+- 🌱 I’m currently exploring Golang, Flutter e.t.c
 - 💞️ I’m looking to collaborate on building Web and software solutions
 - I build and develop web solutions for brands and businesses
 
