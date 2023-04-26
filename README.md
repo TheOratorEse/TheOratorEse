@@ -1,10 +1,9 @@
 # About Me
-- 👋 Hi, I’m @TheOratorEse
-- 👀 I’m a backend developer working with HTML/CSS, VUES, JAVASCRIPT PHP/LARAVEL, CMS, SQL/POSTGRE
-- 🌱 I’m currently exploring Golang, Flutter e.t.c
+- 👋 Hi, I’m Eseiwi 
+- 👀 I’m a backend developer working with Laravek,Node.js,React
+- 🌱 I’m also into Mobile Developer using Flutter(Dart)
 - 💞️ I’m looking to collaborate on building Web and software solutions
-- I build and develop web solutions for brands and businesses
-
+- I build and develop web solutions for brands and businesses and I'm open for new roles.
 - 📫 How to reach me ...
 Twitter: https://twitter.com/TheOrator_Ese?s=09
 
