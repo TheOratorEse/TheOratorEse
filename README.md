@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Eseiwi 
-- 👀 I’m a backend developer working with Laravek,Node.js,React
-- 🌱 I’m also into Mobile Developer using Flutter(Dart)
+- 👀 I’m a backend developer working with Laravel, Node.js, React and Vues.
+- 🌱 I’m also into Mobile Developement using Flutter(Dart)
 - 💞️ I’m looking to collaborate on building Web and software solutions
 - I build and develop web solutions for brands and businesses and I'm open for new roles.
 - 📫 How to reach me ...
