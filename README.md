@@ -1,9 +1,9 @@
 # About Me
 - 👋 Hi, I’m Eseiwi 
-- 👀 I’m a backend developer working with Laravel, Node.js, React and Vues.
+- 👀 I’m a Full-Stack developer working with Laravel, Node.js Express, React and Vues.
 - 🌱 I’m also into Mobile Developement using Flutter(Dart)
 - 💞️ I’m looking to collaborate on building Web and software solutions
-- I build and develop web solutions for brands and businesses and I'm open for new roles.
+- I build and develop mobile & web solutions for brands and businesses and I'm open for new roles.
 - 📫 How to reach me ...
 Twitter: https://twitter.com/TheOrator_Ese?s=09
 
