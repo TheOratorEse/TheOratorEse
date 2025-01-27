@@ -9,7 +9,7 @@ Twitter: https://twitter.com/TheOrator_Ese?s=09
 
 
 #Porfolio
-Here is a link to my Porfolio: https://oratorese.disha.page
+Here is a link to my Porfolio: https://www.linkedin.com/in/eseiwi-omorogbe
 
 
 # Github stats
