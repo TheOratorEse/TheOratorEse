@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Eseiwi 
-- 👀 I’m a Full-Stack developer working with Laravel, Node.js Express, React and Vues.
-- 🌱 I’m also into Mobile Developement using Flutter(Dart)
+- 👀 I’m a Full-Stack software developer working with Flutter, Laravel, Node.js, Python, Express, React and Vues.
+- 🌱 I’m currently focused on Mobile Developement using Flutter(Dart)
 - 💞️ I’m looking to collaborate on building Web and software solutions
 - I build and develop mobile & web solutions for brands and businesses and I'm open for new roles.
 - 📫 How to reach me ...
