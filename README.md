@@ -1,15 +1,17 @@
 # About Me
-- 👋 Hi, I’m Eseiwi 
-- 👀 I’m a Full-Stack software developer working with Flutter, Laravel, Node.js, Python, Express, React and Vues.
-- 🌱 I’m currently focused on Mobile Developement using Flutter(Dart)
-- 💞️ I’m looking to collaborate on building Web and software solutions
-- I build and develop mobile & web solutions for brands and businesses and I'm open for new roles.
+- 👋 Hi, I’m Eseiwi, an accomplished and versatile Full-Stack Software Developer with over five years of proven expertise in designing and deploying robust, scalable, and innovative mobile and web applications.
+- 👀 I’m proficient in leveraging cutting-edge frameworks such as Flutter, React, Laravel, Node.js, Python, Express, and Vue.js to deliver seamless user experiences.
+- 🌱 Currently focused on Mobile Development using Flutter (Dart)
+- 💞️ I’m eager to collaborate on building impactful web and software solutions that drive growth for businesses and brands.
+- 🚀 I thrive on developing mobile and web solutions tailored to organizational needs and am actively open to new roles.
+
+
 - 📫 How to reach me ...
 Twitter: https://twitter.com/TheOrator_Ese?s=09
 
 
 #Porfolio
-Here is a link to my Porfolio: https://www.linkedin.com/in/eseiwi-omorogbe
+Here is a link to my Porfolio to Explore my work: https://www.linkedin.com/in/eseiwi-omorogbe
 
 
 # Github stats
