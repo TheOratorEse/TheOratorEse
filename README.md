@@ -10,8 +10,8 @@
 Twitter: https://twitter.com/TheOrator_Ese?s=09
 
 
-#Porfolio
-Here is a link to my Porfolio to Explore my work:
+#Portfolio
+Here is a link to my Portfolio to Explore my work:
 https://eseiwiomorogbe.netlify.app/ 
 LINKEDIN: 
 https://www.linkedin.com/in/eseiwi-omorogbe
