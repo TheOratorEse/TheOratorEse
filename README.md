@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m Eseiwi, an accomplished and versatile Full-Stack Software Developer with over five years of proven expertise in designing and deploying robust, scalable, and innovative mobile and web applications.
+- 👋 Hi, I’m Eseiwi, an accomplished and versatile Full-Stack Software Developer with over 7 seven years of proven expertise in designing and deploying robust, scalable, and innovative mobile and web applications.
 - 👀 I’m proficient in leveraging cutting-edge frameworks such as Flutter, React,Next.Js, Laravel, Node.js, Python, Express, and Vue.js to deliver seamless user experiences.
 - 🌱 Currently focused on Mobile Development using Flutter (Dart) and Backend using Express.Js
 - 💞️ I’m eager to collaborate on building impactful web and software solutions that drive growth for businesses and brands.
