@@ -1,44 +1,78 @@
 # About Me
-- 👋 Hi, I’m Eseiwi, an accomplished and versatile Full-Stack Software Developer with over 7 seven years of proven expertise in designing and deploying robust, scalable, and innovative mobile and web applications.
-- 👀 I’m proficient in leveraging cutting-edge frameworks such as Flutter, React,Next.Js, Laravel, Node.js, Python, Express, and Vue.js to deliver seamless user experiences.
-- 🌱 Currently focused on Mobile Development using Flutter (Dart) and Backend using Express.Js
-- 💞️ I’m eager to collaborate on building impactful web and software solutions that drive growth for businesses and brands.
-- 🚀 I thrive on developing mobile and web solutions tailored to organizational needs and am actively open to new roles.
 
+👋 Hi, I'm Eseiwi, an accomplished Full-Stack Software Developer with 7+ years of experience in designing and deploying robust, scalable mobile and web applications.
 
-- 📫 How to reach me ...
-Twitter: https://twitter.com/TheOrator_Ese?s=09
+👀 I specialize in building with **Flutter**, **React**, **Next.js**, **Laravel**, **Node.js**, **Python**, and **Express** to deliver seamless user experiences.
 
+🌱 Currently focused on **Mobile Development (Flutter/Dart)** and **Backend Engineering (Express.js)**
 
-#Portfolio
-Here is a link to my Portfolio to Explore my work:
-https://eseiwiomorogbe.netlify.app/ 
-LINKEDIN: 
-https://www.linkedin.com/in/eseiwi-omorogbe
+💞️ I'm open to collaborating on impactful web and software solutions that drive business growth.
 
+🚀 I thrive on developing tailored solutions and am actively open to new opportunities.
 
-# Github stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheOratorEse&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+---
 
-<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=TheOratorEse&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
-<br>
-<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=TheOratorEse&theme=github-dark" />
-<br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOratorEse&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
+## 🔗 Connect With Me
 
+- 📧 Email: esewi.omorogbe@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/eseiwi-omorogbe](https://www.linkedin.com/in/eseiwi-omorogbe)
+- 🐦 Twitter: [twitter.com/TheOrator_Ese](https://twitter.com/TheOrator_Ese)
+- 🌐 Portfolio: [eseiwiomorogbe.netlify.app](https://eseiwiomorogbe.netlify.app)
 
-<!-- Wakatime stats
-[![wakatime](https://wakatime.com/badge/user/<image-url>.svg)](https://wakatime.com/<userID>)
+---
 
---->
+## 🛠️ Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
+---
 
-<!---
-TheOratorEse/TheOratorEse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheOratorEse&count_private=true&show_icons=true&theme=github_dark&border_radius=10&border_color=39D353&icon_color=39D353&title_color=fff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheOratorEse&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOratorEse&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=10&border_color=39D353&title_color=fff" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheOratorEse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
